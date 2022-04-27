@@ -1,2 +1,0 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
-mobi_cascais_bus,Cascais Próxima E.M. S.A.,http://www.mobicascais.pt/,Europe/Lisbon,pt,800203186,https://www.mobicascais.pt/

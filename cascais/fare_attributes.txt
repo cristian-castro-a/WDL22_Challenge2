@@ -1,3 +1,0 @@
-fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
-Bilhete diário eletrónico,1.50,EUR,1,,mobi_cascais_bus,
-Bilhete diário de bordo,2.00,EUR,0,,mobi_cascais_bus,
